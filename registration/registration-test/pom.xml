@@ -40,7 +40,7 @@
       <dependency>
          <groupId>org.json</groupId>
          <artifactId>json</artifactId>
-         <version>20200518</version>
+         <version>20231013</version>
       </dependency>
       <!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-runner 
          <dependency> <groupId>org.junit.platform</groupId> <artifactId>junit-platform-runner</artifactId> 
